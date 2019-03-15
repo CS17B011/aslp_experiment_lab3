@@ -9,6 +9,6 @@ main:
 	li $t1,8
 	add $t0,$t0,$t1
 	sub $t1,$t0,$t1
-	add $t0,$t0,$t1
+	sub $t0,$t0,$t1
 
 	add $sp,$sp,8	
